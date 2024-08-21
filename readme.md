@@ -17,6 +17,9 @@
 
 <!--RECENT_ACTIVITY:last_update-->
 
+![faisalbhuiyan3038's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalbhuiyan3038&theme=vue-dark&hide_border=true)
+![faisalbhuiyan3038's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalbhuiyan3038&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ### :computer: 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑:
 
 <p>
