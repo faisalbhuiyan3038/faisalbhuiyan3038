@@ -11,8 +11,9 @@ jobs:
     name: Update Profile README
 
     steps:
-    - name: Checkout repo
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          ref: master
 
       - name: Add activity to readme
         uses: Readme-Workflows/recent-activity@v2.4.1
