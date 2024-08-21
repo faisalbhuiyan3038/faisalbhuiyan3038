@@ -13,9 +13,12 @@
 
 ### 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
 
 ![faisalbhuiyan3038's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalbhuiyan3038&theme=vue-dark&hide_border=true)
 ![faisalbhuiyan3038's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalbhuiyan3038&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

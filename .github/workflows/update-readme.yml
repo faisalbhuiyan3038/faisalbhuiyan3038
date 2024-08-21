@@ -2,18 +2,18 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/90 * * * *" # Update every 90 minutes
+    # Update every 90 minutes
+    - cron: "*/90 * * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
-    name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: master
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Add activity to readme
         uses: Readme-Workflows/recent-activity@v2.4.1
