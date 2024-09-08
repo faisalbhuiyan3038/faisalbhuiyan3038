@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     # Update every 90 minutes
-    - cron: "*/90 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
